@@ -85,4 +85,4 @@ def altinput(alt,grid,N):
 m = altinput(gethlist(get3list(j)),grid,N)
 
 cPickle.dump(m, open('hgrid', 'wb'))
-
+#

@@ -1,4 +1,4 @@
 PyGCM
 =====
 
-A global climate model
+A global climate model.
